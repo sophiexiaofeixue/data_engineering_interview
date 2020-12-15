@@ -20,4 +20,5 @@ The 30-minute presentation will be given in a live setting and you will be score
 2. Thoughts or ideas on the source’s data lineage.  Can it be trusted? What are the potential problems with the data? (10pts)
 3. Intelligent design plans for how best to collect the data (ajax,apis, vendor solutions)   (20pts)
 4. Data quality, cleaning and accuracy detection. How would you ensure the data is correct, every day we use it? (15pts)
-5. Outcomes or live demos (5pts)                                                                                                                                                  6. Clear and succinct presentation (20pts)   
+5. Outcomes or live demos (5pts)                                                                                                                                            
+6. Clear and succinct presentation (20pts)   
